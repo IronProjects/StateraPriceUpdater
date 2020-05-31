@@ -1,5 +1,5 @@
 # StateraPriceUpdater
-Simple Price updater for statera built on python3
+Simple Price updater for statera built on python3 using coingecko api to check the price in $usd
 
 Requirements:
 coingecko
